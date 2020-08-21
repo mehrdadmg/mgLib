@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.main-wrapper {
+  display: flex;
+  min-height: 100vh;
+}
+
+.nav-wrapper {
+  width: 25%;
+}
+
+.nav-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-content: stretch;
+  align-items: stretch;
+  background-color: aquamarine;
+  min-height: 10vh;
+}
